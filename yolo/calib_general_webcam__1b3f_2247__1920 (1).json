@@ -1,0 +1,50 @@
+{
+    "camera": "GENERAL WEBCAM (1b3f:2247)",
+    "platform": "X11; Linux x86_64",
+    "avg_reprojection_error": 0.9536215809452513,
+    "camera_matrix": {
+        "type_id": "opencv-matrix",
+        "rows": 3,
+        "cols": 3,
+        "dt": "d",
+        "data": [
+            1564.250659504571,
+            0,
+            948.956341557679,
+            0,
+            1555.016100572986,
+            612.6195963058112,
+            0,
+            0,
+            1
+        ]
+    },
+    "distortion_coefficients": {
+        "type_id": "opencv-matrix",
+        "rows": 5,
+        "cols": 1,
+        "dt": "d",
+        "data": [
+            -0.41678600737945726,
+            0.2260630198493592,
+            -0.006281335650682474,
+            -0.008625061877511097,
+            -0.0615445163129843
+        ]
+    },
+    "distortion_model": "rectilinear",
+    "img_size": {
+        "type_id": "opencv-matrix",
+        "rows": 2,
+        "cols": 1,
+        "dt": "d",
+        "data": [
+            1920,
+            1080
+        ]
+    },
+    "calibration_time": "Mon, 03 Jun 2024 10:04:36 GMT",
+    "caveats": [
+        "upscaled"
+    ]
+}
